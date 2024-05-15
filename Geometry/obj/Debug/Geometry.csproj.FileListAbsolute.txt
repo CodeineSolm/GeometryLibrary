@@ -1,0 +1,11 @@
+D:\CodeineSolm\Code\Projects\ConsoleApp1\Geometry\bin\Debug\Geometry.dll.config
+D:\CodeineSolm\Code\Projects\ConsoleApp1\Geometry\bin\Debug\Geometry.dll
+D:\CodeineSolm\Code\Projects\ConsoleApp1\Geometry\bin\Debug\Geometry.pdb
+D:\CodeineSolm\Code\Projects\ConsoleApp1\Geometry\bin\Debug\Microsoft.Analytics.Interfaces.dll
+D:\CodeineSolm\Code\Projects\ConsoleApp1\Geometry\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+D:\CodeineSolm\Code\Projects\ConsoleApp1\Geometry\bin\Debug\Microsoft.Analytics.Types.dll
+D:\CodeineSolm\Code\Projects\ConsoleApp1\Geometry\obj\Debug\Geometry.csproj.AssemblyReference.cache
+D:\CodeineSolm\Code\Projects\ConsoleApp1\Geometry\obj\Debug\Geometry.csproj.CoreCompileInputs.cache
+D:\CodeineSolm\Code\Projects\ConsoleApp1\Geometry\obj\Debug\Geometry.csproj.Up2Date
+D:\CodeineSolm\Code\Projects\ConsoleApp1\Geometry\obj\Debug\Geometry.dll
+D:\CodeineSolm\Code\Projects\ConsoleApp1\Geometry\obj\Debug\Geometry.pdb

@@ -1,0 +1,11 @@
+D:\CodeineSolm\Code\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\CodeineSolm\Code\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\CodeineSolm\Code\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\CodeineSolm\Code\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\Geometry.dll
+D:\CodeineSolm\Code\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\Geometry.pdb
+D:\CodeineSolm\Code\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\Geometry.dll.config
+D:\CodeineSolm\Code\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\CodeineSolm\Code\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\CodeineSolm\Code\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleA.CB28C8CC.Up2Date
+D:\CodeineSolm\Code\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\CodeineSolm\Code\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
